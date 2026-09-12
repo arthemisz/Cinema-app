@@ -1,5 +1,7 @@
 # CINEMA. · Movies & Series Discovery
 
+Deployed link: https://cinema-app-green.vercel.app/
+
 **CINEMA.** is a modern, responsive web application for discovering movies, TV series, and celebrities. Powered by the **TMDB (The Movie Database) API**, it features a sleek dark-themed cinema UI, real-time debounced search, genre filtering, trailer previews, and a persistent personal watchlist.
 
 ---
