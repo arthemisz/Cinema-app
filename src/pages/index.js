@@ -1,0 +1,8 @@
+export { default as Home } from './Home'
+export { default as Browse } from './Browse'
+export { default as Search } from './Search'
+export { default as Watchlist } from './Watchlist'
+export { default as Detail } from './Detail'
+export { default as Celebrities } from './Celebrities'
+export { default as PersonDetail } from './PersonDetail'
+export { default as NotFound } from './NotFound'
