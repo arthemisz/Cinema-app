@@ -59,27 +59,3 @@ Cinema-app/
 
 ---
 
-##  Getting Started
-
-### 1. Clone & Install Dependencies
-```bash
-npm install
-```
-
-### 2. Configure Environment Variables
-Create a `.env` file in the project root:
-```env
-VITE_TMDB_KEY=your_tmdb_api_key_here
-# Or use TMDB Read Access Token:
-# VITE_TMDB_ACCESS_TOKEN=your_bearer_token_here
-```
-
-### 3. Run Development Server
-```bash
-npm run dev
-```
-
-### 4. Build for Production
-```bash
-npm run build
-```
