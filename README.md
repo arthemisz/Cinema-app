@@ -40,7 +40,7 @@ Cinema-app/
 │   ├── App.jsx                # Main application layout, routing setup, and footer
 │   ├── index.css              # Global styles, Tailwind directives, and custom scrollbar styling
 │   ├── main.jsx               # React entry point mounting to root DOM element
-│   └── pages.jsx              # Application views (Home, Browse, Detail, PersonDetail, Search, Watchlist, NotFound)
+│   └── pages/                  # Application views (Home, Browse, Detail, PersonDetail, Search, Watchlist, NotFound)
 ├── .env                       # Environment variables (TMDB credentials)
 ├── index.html                 # HTML template and document entry point
 ├── package.json               # Dependencies and build/dev scripts
